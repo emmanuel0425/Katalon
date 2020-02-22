@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 3ED4-322D
-
- Directory of C:\Users\maste\Desktop\Git Project
-
-02/22/2020  10:12 AM    <DIR>          .
-02/22/2020  10:12 AM    <DIR>          ..
-02/22/2020  10:12 AM                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  280,659,423,232 bytes free
+Hello World!
